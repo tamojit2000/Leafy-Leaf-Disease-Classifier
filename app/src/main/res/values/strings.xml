@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Leafy</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="large_text">
+        Leafy is an easy-to-use leaf disease detection helper.\n\n
+        It uses state of the art of deep learning algorithm to detect diseases so that you can find the proper cure for the disease.\n\n
+        It has the ability to pick images from camera gallery as well as google photos.
+        It is completely offline so that network cannot affect the performance.
+        It is highly optimised and cleans itself so that storage issues doesnot comes up.
+
+        \n\n
+        Till now the diseases it can classify are as follows:\n\n
+        Apple  Apple scab\n
+Apple  Black rot\n
+Apple  Cedar apple rust\n
+Apple  healthy\n
+Blueberry  healthy\n
+Cherry (including sour)  healthy\n
+Cherry (including sour)  Powdery mildew\n
+Corn (maize)  Cercospora leaf spot Gray leaf spot\n
+Corn (maize)  Common rust\n
+Corn (maize)  healthy\n
+Corn (maize)  Northern Leaf Blight\n
+Grape  Black rot\n
+Grape  Esca (Black Measles)\n
+Grape  healthy\n
+Grape  Leaf blight (Isariopsis Leaf Spot)\n
+Orange  Haunglongbing (Citrus greening)\n
+Peach  Bacterial spot\n
+Peach  healthy\n
+Pepper bell  Bacterial spot\n
+Pepper bell  healthy\n
+Potato  Early blight\n
+Potato  healthy\n
+Potato  Late blight\n
+Raspberry  healthy\n
+Soybean  healthy\n
+Squash  Powdery mildew\n
+Strawberry  healthy\n
+Strawberry  Leaf scorch\n
+Tomato  Bacterial spot\n
+Tomato  Early blight\n
+Tomato  healthy\n
+Tomato  Late blight\n
+Tomato  Leaf Mold\n
+Tomato  Septoria leaf spot\n
+Tomato  Spider mites Two-spotted spider mite\n
+Tomato  Target Spot\n
+Tomato  Tomato mosaic virus\n
+Tomato  Tomato Yellow Leaf Curl Virus\n
+
+    </string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='Leafy'
+include ':app'
